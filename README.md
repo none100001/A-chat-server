@@ -1,0 +1,2 @@
+# A-chat-server
+Developed a chat server using Java multithreading, Java Socket programming. In this project there is a server and multiple clients. First of all clients give request to the server and if the server agreed then that client can communicate with the server and also can communicate with other clients. Various mapping technologies and properly use of synchronisation this project is developed. 
